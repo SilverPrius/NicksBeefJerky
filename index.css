@@ -1,0 +1,72 @@
+body{
+    background-color: lightyellow;
+    /* width: 100vw;
+    height: 100vh; */
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+h1{
+    font-family:fantasy;
+    
+
+}
+
+.navbar{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    background-color: darkred;
+    color: white;
+    font-family: arial;
+    height: 40px;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+}
+
+.pictureOfNick{
+    width: 250px;
+    height: auto;
+}
+
+.introduction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+
+}
+
+h2{
+    font-family: fantasy;
+    font-weight:bold;
+}
+
+.olList{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+
+.ulList{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:550;
+    
+
+}
+
+.image{
+    margin: 17px 0px 0px 0px;
+}
+
+.p1{
+    margin-left: 20px;
+}
+
